@@ -1,4 +1,4 @@
-# Divide-and-Recombine
+# Divide and Recombine (D&R)
 
 ### Scenario
 The data relates to telemarketing phone calls to sell long-term deposits. Within a campaign, the agents make phone calls to a list of clients to sell the product (outbound) or, if meanwhile the client calls the contact-center for any other reason, he is asked to subscribe the product (inbound). Thus, the contact is either unsuccessful or successful.
