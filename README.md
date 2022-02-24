@@ -16,4 +16,4 @@ Consider a logistic regression model for the SUBSCRIBED variable using as explan
 * nr.employed
 
 ### Task
-Run the model using all the data. Then, use the divide and recombine approach with 10 and 20 splits. The project's goal is to compare the different estimation approaches and see how much they agree.
+Run the model using all the data. Then, use the divide and recombine approach with 10 and 20 splits. The project's goal was to compare the different estimation approaches and see how much they agree.
